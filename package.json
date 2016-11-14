@@ -1,0 +1,38 @@
+{
+  "name": "tumblrsearchapp_react",
+  "version": "1.0.0",
+  "description": "App to search Tumblr, in React/Redux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "watch": "webpack -w"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-react": "^6.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "babel-preset-stage-1": "^6.1.18",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "express": "^4.14.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "react-router": "^2.0.1",
+    "redux": "^3.0.4",
+    "redux-thunk": "^2.0.1",
+    "webpack": "^1.12.9"
+  }
+}
