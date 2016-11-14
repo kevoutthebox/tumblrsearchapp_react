@@ -1,6 +1,6 @@
 #Tumblr Search App (React).
 
-Same as: github.com/kevoutthebox/tumblrsearchapp but built in React/Redux.
+Same as: www.github.com/kevoutthebox/tumblrsearchapp but built in React/Redux.
 
 To use it, run the following commands:
 
